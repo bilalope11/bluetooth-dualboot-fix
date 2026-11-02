@@ -3,7 +3,7 @@
 Stop re-pairing your Bluetooth earbuds (or mouse, keyboard, headphones) every
 time you switch between Windows and Linux on a dual-boot PC.
 
-Tested with: **Windows 11 + Fedora**, **CMF Buds Pro 2**.
+Tested with: **Windows 11 + Fedora**, **WIRELESS EARBUDS**.
 
 ---
 
